@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Init"
+date: 2014-07-14 00:18:56 +0000
+comments: true
+categories: 
+---
