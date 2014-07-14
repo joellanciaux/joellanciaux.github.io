@@ -3,5 +3,18 @@ layout: post
 title: "Init"
 date: 2014-07-14 00:18:56 +0000
 comments: true
-categories: 
+categories: general
 ---
+This is, more or less, an initial post so that my blog isn't
+completely empty when I pushed it up.
+
+I'll be expanding on some of these in later days, but here's a small set of what I've been playing around with lately.
+
+- [React](http://facebook.github.io/react/)
+  - Check out my brother's _excellent_ React-only-powered grid component, [Griddle](http://dynamictyped.github.io/Griddle/).
+I've been able to toss in a few push requests, so that's been fun.
+- Atom, which has gotten _considerably_ better since the initial release.
+  - And what's this? [Atom is going to be moving some of its render to React?](http://blog.atom.io/2014/07/02/moving-atom-to-react.html)
+- Angular + Cordova
+
+Excitement!
